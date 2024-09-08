@@ -1,4 +1,5 @@
-- HI -
+- HI
+
 I'm Adrian Vasile,
 an engineering student that works hard for his dreams...
 
@@ -7,7 +8,8 @@ thanks to those I've been able to grow and connect and I wish that more people w
 understand the meaning and strenght of education, and to do that I want to make it 
 more accessible
 
-- WHAT I KNOW -
+- WHAT I KNOW 
+
 We'll to be honest not alot,
 but that's the best thing!
 
